@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77E8FC45-1FA2-3B46-6C32-C631C8F5FD1B}") = "Unity-ShatterEffect-Project", "Assembly-CSharp.csproj", "{2AECA944-B22B-D766-275C-6BF5C05149FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AECA944-B22B-D766-275C-6BF5C05149FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AECA944-B22B-D766-275C-6BF5C05149FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AECA944-B22B-D766-275C-6BF5C05149FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AECA944-B22B-D766-275C-6BF5C05149FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
